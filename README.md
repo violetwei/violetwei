@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- [![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei)](https://github.com/anuraghazra/github-readme-stats) -->
+[![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei)](https://github.com/anuraghazra/github-readme-stats)
 ![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei&count_private=true&show_icons=true&theme=radical)
 
 <!--
