@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: I'm a full stack developer who is always passionate about learning new technologies
-- 🔭 I’m currently working on Deep Learning Research (Computer Vision)
+- ⚡ Fun fact: I am a full stack developer who is always passionate about learning new technologies
+- 🔭 I’m currently working on Deep Learning Research (Computer Vision & Image Processing)
 - 🌱 I’m currently learning Natural Language Processing (NLP)
 - 📫 How to reach me: violetzz.wei@gmail.com
 
