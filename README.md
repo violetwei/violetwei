@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: I am a full stack developer who is always passionate about learning new technologies
 - 🔭 I’m currently working on Deep Learning Research (Computer Vision & Image Processing)
-- 🌱 I’m an undergrad studying Software Engineering at McGill University
+- 🌱 I’m an undergrad majoring in Software Engineering at McGill University
 - 📫 How to reach me: violetzz.wei@gmail.com
 
 ![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei&count_private=true&show_icons=true&theme=radical&hide=contribs)
