@@ -1,8 +1,6 @@
 ### Hi there, I'm Violet 👋
 
 - ⚡ Fun fact: I am an enthusiastic and proactive full stack developer, with strong competencies in data structures and algorithms  
-- 🔭 I’m currently working on Deep Learning Research (Computer Vision & Image Processing)
-- 📖 My published paper can be viewed [here](https://ieeexplore.ieee.org/document/9306822)
 - 🌱 I’m an undergrad majoring in Software Engineering at McGill University
 - 📫 How to reach me: violetzz.wei@gmail.com
 
