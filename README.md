@@ -2,7 +2,8 @@
 
 - ⚡ Fun fact: I am an enthusiastic and proactive full stack developer, with strong competencies in data structures and algorithms  
 - 🌱 I’m an undergrad majoring in Software Engineering at McGill University
-- 📫 How to reach me: violetzz.wei@gmail.com
+- 💬 Interested in Machine Learning, Computer Vision, Large Scale Infra/Distributed Systems
+- - 📫 How to reach me: violetzz.wei@gmail.com
 
 ![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei&count_private=true&show_icons=true&theme=radical&hide=contribs)
 
