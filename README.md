@@ -1,7 +1,7 @@
 ### Hi there, I'm Violet 👋
 
 - ⚡ Fun fact: I am an enthusiastic and proactive full stack developer, with strong competencies in data structures and algorithms  
-- 🌱 I’m a senior undergrad majoring in Software Engineering at McGill University
+- 🌱 I’m a senior undergrad majoring in Software Engineering at McGill University, currently live in Montreal
 - 💬 Interested in Machine Learning, Computer Vision, Large Scale Infra/Distributed Systems
 - 📫 How to reach me: violetzz.wei@gmail.com
 
