@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: enthusiastic software engineer with great passion for cutting-edge technologies
 - 🌱 I’m a senior undergrad majoring in Software Engineering at McGill University, currently live in Montreal
-- 💬 Interested in Large Scale Infrastructure/Distributed Systems, Full Stack Development, Cloud Technologies, Machine Learning, Computer Vision & Crypto!
+- 💬 Interested in Large Scale Infra/Distributed Systems, Full Stack Dev, Cloud Technologies, Machine Learning & Crypto!
 - 📫 How to reach me: violetzz.wei@gmail.com
 
 ![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei&count_private=true&show_icons=true&theme=radical&hide=contribs)
