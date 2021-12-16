@@ -1,8 +1,8 @@
 ### Hi there, I'm Violet 👋
 
-- ⚡ Fun fact: I am an enthusiastic software engineer, with strong competencies in data structures and algorithms design 
+- ⚡ Fun fact: enthusiastic software engineer with great passion for cutting-edge technologies
 - 🌱 I’m a senior undergrad majoring in Software Engineering at McGill University, currently live in Montreal
-- 💬 Interested in Machine Learning, Computer Vision, Large Scale Infrastructure/Distributed Systems, Full Stack Development, Cloud Technologies
+- 💬 Interested in Large Scale Infrastructure/Distributed Systems, Full Stack Development, Cloud Technologies, Machine Learning, Computer Vision & Crypto!
 - 📫 How to reach me: violetzz.wei@gmail.com
 
 ![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei&count_private=true&show_icons=true&theme=radical&hide=contribs)
