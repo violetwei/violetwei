@@ -1,7 +1,7 @@
 ### Hi there, I'm Violet 👋
 
 - ⚡ Fun fact: enthusiastic software engineer with great passion for cutting-edge technologies
-- 🌱 I’m a senior undergrad majoring in Software Engineering at McGill University, currently live in Montreal
+- 🌱 I’m currently live in Montreal, Canada🇨🇦
 - 💬 Interested in Large Scale Infra/Distributed Systems, Full Stack Dev, Cloud Technologies, Machine Learning & Crypto!
 - 📫 How to reach me: violetzz.wei@gmail.com
 
