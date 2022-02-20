@@ -1,8 +1,8 @@
 ### Hi there, I'm Violet 👋
 
-- ⚡ Fun fact: enthusiastic software engineer with great passion for cutting-edge technologies
-- 🌱 I’m currently live in Montreal, Canada🇨🇦
-- 💬 Interested in Large Scale Infra/Distributed Systems, Full Stack Dev, Cloud Technologies, Machine Learning & Crypto!
+- ⚡ Fun fact: Tech enthusiastic & software engineer with huge passion for cutting-edge technologies
+- 🌱 I currently live in Montreal, Canada🇨🇦
+- 💬 Interested in Large Scale Distributed Systems, Full Stack Dev, Cloud Technologies, ML, Crypto/Blockchain projects!
 - 📫 How to reach me: violetzz.wei@gmail.com
 
 ![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei&count_private=true&show_icons=true&theme=radical&hide=contribs)
