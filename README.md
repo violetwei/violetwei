@@ -2,10 +2,10 @@
 
 ![](https://github.com/violetwei/violetwei/blob/master/header.png)
 
-- ⚡ Fun fact: Tech enthusiastic & software engineer with huge passion for cutting-edge technologies
+- ⚡ Fun fact: Tech enthusiast & software engineer with huge passion for cutting-edge technologies & products - always open to new challenges
 - 🌱 I currently live in Montreal, Canada🇨🇦
 - 💬 Interested in Large Scale Distributed Systems, Full Stack Dev, Cloud Technologies, ML, Crypto/Blockchain projects!
-- 😄 Crypto enthusiastic: dApp / smart contract development, DeFi, NFTs, etc.
+- 😄 Crypto enthusiast: dApp / smart contract development, DeFi, NFTs, etc.
 - 📫 How to reach me: violetzz.wei@gmail.com
 
 ![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei&count_private=true&show_icons=true&theme=radical&hide=contribs)
