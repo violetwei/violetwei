@@ -4,7 +4,7 @@
 
 - ⚡ Fun fact: Tech enthusiast & software engineer with huge passion for cutting-edge technologies & products
 - 🌱 I currently live in Canada🇨🇦
-- 💬 Interested in Large Scale Distributed Systems, Full Stack Dev, Cloud Technologies, and ML
+- 💬 Interested in AI & ML, Large Scale Distributed Systems, Full Stack Dev, Cloud Technologies
 - 📫 How to reach me: violetzz.wei@gmail.com
 
 ![violetwei's github stats](https://github-readme-stats.vercel.app/api?username=violetwei&count_private=true&show_icons=true&theme=radical&hide=contribs)
